@@ -8,6 +8,8 @@
 ### About Me:
 Passionate full-stack developer with expertise in modern web technologies. Currently pursuing Computer Software Engineering while building impactful solutions.  
 Special Interests: MERN Stack Development, Next.js Development, and Performance Optimization.
+![Profile Views](https://komarev.com/ghpvc/?username=WahabCreations&color=brightgreen)
+
 
 ---
 
