@@ -1,4 +1,4 @@
-#![](gif3.gif)
+<p align="center">#![](gif3.gif)</p>
 
 # Hi, I'm Abdul Wahab 👋
 
