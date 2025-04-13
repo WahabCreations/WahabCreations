@@ -47,9 +47,10 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 
 ![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&count_private=true&hide=prs)
 
+![Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations)
 ---
 
-![Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations)
+
 
 
 ### Collaboration Opportunities:
@@ -77,8 +78,10 @@ Open to:
 
 ![Abdul Wahab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations&theme=dark)
 
+### Most Used Languages:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=dark)
 ---
 
-### Most Used Languages:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=dark)
+
+
