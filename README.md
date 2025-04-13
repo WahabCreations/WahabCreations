@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-![Abdul Wahab's Avatar][(https://github.com/WahabCreations/WahabCreations/blob/main/github%20avatar.gif)](https://camo.githubusercontent.com/e91c5bbb127471a139c3188465e5d20c825ffeb697cec9ae85b97ea87dc1e04e/68747470733a2f2f617a697a73656e7475726b2e636f6d2f696d616765732f68656c6c6f2d6176617461722e676966)
+![Abdul Wahab's Avatar](https://github.com/WahabCreations/WahabCreations/blob/main/github%20avatar.gif)
 
 ### About Me:
 Passionate full-stack developer with expertise in modern web technologies. Currently pursuing Computer Software Engineering while building impactful solutions.  
@@ -36,9 +36,9 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 
 | Project | Tech Stack |
 | ------- | ---------- |
-| [Gamified Mental Health Website](https://github.com/WahabCreations/gamified-web-app) |HTML, JavaScript, React, Python |
-| [Ecommerce QuickCart](https://github.com/WahabCreations/ecommerce-quickcart) | React, JavaScript, CSS, Vercel, clerk , ingest  |
-| [Portfolio Website](https://github.com/WahabCreations/task01-portfolio) | HTML5, CSS3|
+| [MERN Chat Application](https://github.com/WahabCreations/gamified-web-app) | React, MongoDB, Node.js, Socket.io |
+| [Ecommerce Website](https://github.com/WahabCreations/ecommerce-quickcart) | React, MongoDB, Node.js, Express.js |
+| [Portfolio Website](https://github.com/WahabCreations/task01-portfolio) | HTML, CSS, JavaScript |
 
 ---
 
@@ -64,4 +64,17 @@ Open to:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23296E5B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03115257482)
 
 #### More:
-- [Explore My Work]([](http://wahabcreations7.netlify.app/))
+- [Explore My Work](http://wahabcreations7.netlify.app/)
+
+
+---
+
+### GitHub Stats:
+
+![Abdul Wahab's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations&theme=dark)
+
+---
+
+### Most Used Languages:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=dark)
