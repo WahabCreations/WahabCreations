@@ -64,4 +64,4 @@ Open to:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23296E5B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03115257482)
 
 #### More:
-- [Explore My Work]([http://wahabcreations7.netlify.app/]())
+- [Explore My Work]([](http://wahabcreations7.netlify.app/))
