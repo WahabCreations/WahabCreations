@@ -21,6 +21,7 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2300D6F7.svg?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
