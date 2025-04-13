@@ -1,4 +1,4 @@
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WahabCreations&theme=react-dark)
+# ![](https://your-link-to-gif.gif)
 
 # Hi, I'm Abdul Wahab 👋
 
@@ -69,7 +69,7 @@ Open to:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-%23296E5B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03115257482)
 
 #### More:
-- [Explore My Work](http://wahabcreations7.netlify.app/)
+- [Check Out Portfolio here:](http://wahabcreations7.netlify.app/)
 
 
 ---
