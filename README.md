@@ -1,3 +1,5 @@
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WahabCreations&theme=react-dark)
+
 # Hi, I'm Abdul Wahab 👋
 
 ## Full Stack Developer
