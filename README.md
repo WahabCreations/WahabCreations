@@ -44,7 +44,7 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 
 ### Development Analytics:
 
-![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs)
+![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&count_private=true&hide=prs)
 
 ---
 
