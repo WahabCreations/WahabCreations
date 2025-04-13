@@ -75,7 +75,7 @@ Open to:
 ### Connect With Me:
 [![Email](https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wahabcreation2161@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulwahab2161/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23296E5B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/03115257482)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%23296E5B.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923115257482)
 
 #### More:
 - [Check Out Portfolio here:](http://wahabcreations7.netlify.app/)
