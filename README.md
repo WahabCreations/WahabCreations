@@ -1,4 +1,4 @@
-#![](gif3.gif)
+
 <p align="center"><img src="gif3.gif" alt="your avatar"/></p>
 
 # Hi, I'm Abdul Wahab 👋
