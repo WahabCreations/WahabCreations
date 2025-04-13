@@ -2,7 +2,7 @@
 
 ## Full Stack Developer
 
-![Abdul Wahab's Avatar](https://github.com/WahabCreations/WahabCreations/blob/main/github%20avatar.gif)
+![Abdul Wahab's Avatar](https://github.com/WahabCreations/WahabCreations/blob/main/github avatar.gif)
 
 ### About Me:
 Passionate full-stack developer with expertise in modern web technologies. Currently pursuing Computer Software Engineering while building impactful solutions.  
@@ -47,6 +47,9 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 ![Abdul Wahab's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&count_private=true&hide=prs)
 
 ---
+
+![Contribution Calendar](https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations)
+
 
 ### Collaboration Opportunities:
 Open to:
