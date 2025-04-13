@@ -37,6 +37,11 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-%23323272.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-%234CC84E.svg?style=for-the-badge&logo=railway&logoColor=white)
+
 
 ---
 
