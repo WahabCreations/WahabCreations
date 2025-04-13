@@ -4,7 +4,7 @@
 
 ## Full Stack Developer
 
-![Abdul Wahab's Avatar](https://github.com/WahabCreations/WahabCreations/blob/main/githubavatar.gif)
+![Abdul Wahab's Avatar](gif1.gif)
 
 ### About Me:
 Passionate full-stack developer with expertise in modern web technologies. Currently pursuing Computer Software Engineering while building impactful solutions.  
