@@ -1,4 +1,4 @@
-  # ![](gif3.gif)
+  ###################################################### ![](gif3.gif)
 
 # Hi, I'm Abdul Wahab 👋
 
@@ -40,19 +40,6 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 ![Hostinger](https://img.shields.io/badge/Hostinger-%23323272.svg?style=for-the-badge&logo=hostinger&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-%234CC84E.svg?style=for-the-badge&logo=railway&logoColor=white)
 
-#### Additional Technologies & Tools:
-
-- **Flutter**: ![Flutter](https://img.shields.io/badge/Flutter-%23025682.svg?style=for-the-badge&logo=flutter&logoColor=white)
-- **Firebase**: ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=white)
-- **C++**: ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-- **Java**: ![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
-- **C#**: ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-
-
-
-
----
 
 ### Featured Projects:
 
