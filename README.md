@@ -1,8 +1,8 @@
 
 <p align="center"><img src="gif3.gif" alt="your avatar"/></p>
 
-<p align="center"> Hi, I'm Abdul Wahab 👋
- Full Stack Developer</p>
+<p align="center"> Hi 👋, I'm Abdul Wahab 
+ <b> Full Stack Developer<b></p>
 
 
 
