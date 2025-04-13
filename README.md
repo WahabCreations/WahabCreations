@@ -37,8 +37,9 @@ Special Interests: MERN Stack Development, Next.js Development, and Performance 
 
 | Project | Tech Stack |
 | ------- | ---------- |
-| [MERN Chat Application](https://github.com/WahabCreations/gamified-web-app) | React, MongoDB, Node.js, Socket.io |
-| [Ecommerce Website](https://github.com/WahabCreations/ecommerce-quickcart) | React, MongoDB, Node.js, Express.js |
+| [Gamified Mental Health Website](https://github.com/WahabCreations/gamified-web-app) | React,JavaScript, Python, SQLite |
+| [Ecommerce Website](https://github.com/WahabCreations/ecommerce-quickcart) | React, MongoDB, Node.js, Express.js,Clerk, Ingest,Vercel |
+| [Smart Enroll MERN Website](https://github.com/WahabCreations/Mern-Academy-Edu) | React, MongoDB, Node.js, Express.js |
 | [Portfolio Website](https://github.com/WahabCreations/task01-portfolio) | HTML, CSS, JavaScript |
 
 ---
