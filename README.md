@@ -50,15 +50,14 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 
 | Project | Tech Stack | Link |
 | ------- | ---------- | ---- |
-| Quran Academia | React, Next.js, Django | [Live Demo](https://mwquranacademia.vercel.app/) |
+| Quran Academia | React, Next.js, Django, PostgresSQL | [Live Demo](https://mwquranacademia.vercel.app/) |
 | Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
-| Savemore | React, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
-| Zee Security | Full Stack Web App | [Live Demo](https://zeesecurity.co.uk) |
+| Savemore | React, Next.js, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
+| Zee Security | ReactJS , DJango , PostgreSQL | [Live Demo](https://zeesecurity.co.uk) |
 | Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
 | Portfolio Website | Reactjs | [Live Demo ](https://wahabcreations.vercel.app) |
-| Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
 | Ecommerce Website | React, MongoDB, Node.js, Express.js, Clerk, Ingest, Vercel | [View Project](https://github.com/WahabCreations/ecommerce-quickcart) |
-| Smart Enroll MERN Website | React, MongoDB, Node.js, Express.js | [View Project](https://github.com/WahabCreations/Mern-Academy-Edu) |
+| Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
 
 ---
 
