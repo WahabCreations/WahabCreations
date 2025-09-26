@@ -53,7 +53,7 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 | Quran Academia | React, Next.js, Django | [Live Demo](https://mwquranacademia.vercel.app/) |
 | Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
 | Savemore | React, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
-| Zee Security | Full Stack Web App | [Live Demo](https://zeesececurity.co.uk) |
+| Zee Security | Full Stack Web App | [Live Demo](https://zeesecurity.co.uk) |
 | Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
 | Portfolio Website | Reactjs | [Live Demo ](https://wahabcreations.vercel.app) |
 | Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
