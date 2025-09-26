@@ -8,8 +8,8 @@
 ---
 
 ### About Me:
-Passionate full-stack developer with expertise in modern web technologies. Currently pursuing Computer Software Engineering while building impactful solutions.  
-**Special Interests**: MERN Stack Development, Next.js Development, Performance Optimization, Data Analysis & Business Intelligence.
+Dedicated Software Engineer with a strong focus on Full-Stack Web Development, Data Science, and Business Intelligence. Passionate about building impactful solutions using modern web technologies and data-driven insights.
+Special Interests: MERN Stack Development, Next.js Development, Django Backend Development, Performance Optimization, Data Analysis & Business Intelligence.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WahabCreations&color=brightgreen" alt="Profile Views" />
@@ -58,7 +58,7 @@ Passionate full-stack developer with expertise in modern web technologies. Curre
 | Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
 | Ecommerce Website | React, MongoDB, Node.js, Express.js, Clerk, Ingest, Vercel | [View Project](https://github.com/WahabCreations/ecommerce-quickcart) |
 | Smart Enroll MERN Website | React, MongoDB, Node.js, Express.js | [View Project](https://github.com/WahabCreations/Mern-Academy-Edu) |
-| Portfolio Website | HTML, CSS, JavaScript | [View Project](https://github.com/WahabCreations/task01-portfolio) |
+| Portfolio Website | HTML, CSS, JavaScript | [View Project](https://wahabcreatons.vercel.app) |
 
 ---
 
