@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif3.gif" alt="your avatar" width="300" height="300"/>
+  <img src="gif3.gif" alt="your avatar" width="600" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
@@ -50,15 +50,15 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 
 | Project | Tech Stack | Link |
 | ------- | ---------- | ---- |
-| Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
 | Quran Academia | React, Next.js, Django | [Live Demo](https://mwquranacademia.vercel.app/) |
-| Savemore | React, Node.js, MongoDB | [Live Demo](https://savemore.cloud) |
+| Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
+| Savemore | React, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
 | Zee Security | Full Stack Web App | [Live Demo](https://zeesececurity.co.uk) |
 | Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
+| Portfolio Website | Reactjs | [Live Demo ](https://wahabcreations.vercel.app) |
 | Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
 | Ecommerce Website | React, MongoDB, Node.js, Express.js, Clerk, Ingest, Vercel | [View Project](https://github.com/WahabCreations/ecommerce-quickcart) |
 | Smart Enroll MERN Website | React, MongoDB, Node.js, Express.js | [View Project](https://github.com/WahabCreations/Mern-Academy-Edu) |
-| Portfolio Website | HTML, CSS, JavaScript | [View Project](https://wahabcreatons.vercel.app) |
 
 ---
 
