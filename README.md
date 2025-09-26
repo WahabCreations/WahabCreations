@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif3.gif" alt="your avatar" width="150"/>
+  <img src="gif3.gif" alt="your avatar" width="300" height="300"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
@@ -51,7 +51,7 @@ Passionate full-stack developer with expertise in modern web technologies. Curre
 | Project | Tech Stack | Link |
 | ------- | ---------- | ---- |
 | Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
-| Quran Academia | React, Next.js, Django | [Live Demo](https://mw_quranacademia.vercel.app) |
+| Quran Academia | React, Next.js, Django | [Live Demo](https://mwquranacademia.vercel.app/) |
 | Savemore | React, Node.js, MongoDB | [Live Demo](https://savemore.cloud) |
 | Zee Security | Full Stack Web App | [Live Demo](https://zeesececurity.co.uk) |
 | Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
