@@ -56,8 +56,6 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 | Zee Security | ReactJS , DJango , PostgreSQL | [Live Demo](https://zeesecurity.co.uk) |
 | Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
 | Portfolio Website | Reactjs | [Live Demo ](https://wahabcreations.vercel.app) |
-| Ecommerce Website | React, MongoDB, Node.js, Express.js, Clerk, Ingest, Vercel | [View Project](https://github.com/WahabCreations/ecommerce-quickcart) |
-| Gamified Mental Health Website | React, JavaScript, Python, SQLite | [View Project](https://github.com/WahabCreations/gamified-web-app) |
 
 ---
 
