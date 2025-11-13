@@ -50,7 +50,7 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 
 | Project | Tech Stack | Link |
 | ------- | ---------- | ---- |
-| Quran Academia | React, Next.js, Django, PostgresSQL | [Live Demo](https://mwquranacademia.vercel.app/) |
+| Quran Academia | React, Next.js, Django, PostgresSQL | [Live Demo](https://mwquranacademy.vercel.app/) |
 | Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
 | Savemore | React, Next.js, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
 | Zee Security | ReactJS , DJango , PostgreSQL | [Live Demo](https://zeesecurity.co.uk) |
