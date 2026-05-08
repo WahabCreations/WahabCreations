@@ -3,13 +3,13 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
-<h3 align="center">Full Stack Developer | Data Scientist | Business Intelligence Developer | Data Analyst | MERN & Next.js Enthusiast</h3>
+<h3 align="center">Full Stack Developer | frontend Developer | Backend Developer | MERN & Next.js Enthusiast</h3>
 
 ---
 
 ### About Me:
-Dedicated Software Engineer with a strong focus on Full-Stack Web Development, Data Science, and Business Intelligence. Passionate about building impactful solutions using modern web technologies and data-driven insights.
-Special Interests: MERN Stack Development, Next.js Development, Django Backend Development, Performance Optimization, Data Analysis & Business Intelligence.
+Dedicated Software Engineer with a strong focus on Full-Stack Web Development. Passionate about building impactful solutions using modern web technologies and data-driven insights.
+Special Interests: MERN Stack Development, Next.js Development, Django Backend Development & Performance Optimization.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WahabCreations&color=brightgreen" alt="Profile Views" />
@@ -78,8 +78,6 @@ Special Interests: MERN Stack Development, Next.js Development, Django Backend D
 ### Collaboration Opportunities:
 Open to:
 - Full Stack Development Roles
-- Data Science & Analytics Roles
-- Business Intelligence Development
 - Internship Opportunities
 - Frontend Web Development Roles
 - React/Next.js Development Roles
