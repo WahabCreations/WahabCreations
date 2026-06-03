@@ -1,102 +1,117 @@
 <p align="center">
-  <img src="gif3.gif" alt="your avatar" width="600" height="300"/>
+  <img src="gif3.gif" alt="Abdul Wahab Banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Abdul Wahab</h1>
-<h3 align="center">Full Stack Developer | frontend Developer | Backend Developer | MERN & Next.js Enthusiast</h3>
-
----
-
-### About Me:
-Dedicated Software Engineer with a strong focus on Full-Stack Web Development. Passionate about building impactful solutions using modern web technologies and data-driven insights.
-Special Interests: MERN Stack Development, Next.js Development, Django Backend Development & Performance Optimization.
+<h1 align="center">Abdul Wahab</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WahabCreations&color=brightgreen" alt="Profile Views" />
-</p>
-
----
-
-### Tech Stack:
-
-#### Frontend Wizardry:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2300D6F7.svg?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338BDF8.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Backend Craft:
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-#### Tools & More:
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk-%23000000.svg?style=for-the-badge&logo=clerk&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-%23323272.svg?style=for-the-badge&logo=hostinger&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-%231A1A1A.svg?style=for-the-badge&logo=railway&logoColor=white)
-
----
-
-### Featured Projects:
-
-| Project | Tech Stack | Link |
-| ------- | ---------- | ---- |
-| Quran Academia | React, Next.js, Django, PostgresSQL | [Live Demo](https://mwquranacademy.vercel.app/) |
-| Capital Management System | React, Next.js, Django, PostgreSQL | [Live Demo](https://pms-cust.vercel.app) |
-| Savemore | React, Next.js, Django , PostgreSQL | [Live Demo](https://savemore.cloud) |
-| Zee Security | ReactJS , DJango , PostgreSQL | [Live Demo](https://zeesecurity.co.uk) |
-| Integrated Technology Institute | React, Next.js | [Live Demo](https://thelti.site) |
-| Portfolio Website | Reactjs | [Live Demo ](https://wahabcreations.vercel.app) |
-
----
-
-### Development Analytics:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&theme=radical&count_private=true&hide=prs" alt="Abdul Wahab's GitHub Stats" />
+  <strong>Full Stack Engineer · MERN · Next.js · Django</strong>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations&theme=radical" alt="Contribution Calendar" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="mailto:wahabcreation2161@gmail.com">
+    <img src="https://img.shields.io/badge/Email-wahabcreation2161%40gmail.com-D44638?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/abdulwahab2161/">
+    <img src="https://img.shields.io/badge/LinkedIn-abdulwahab2161-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/923115257482">
+    <img src="https://img.shields.io/badge/WhatsApp-%2B923115257482-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wahabcreations.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-wahabcreations.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=WahabCreations&color=0e75b6&style=flat-square&label=Profile+Views" />
 </p>
 
 ---
 
-### Collaboration Opportunities:
-Open to:
-- Full Stack Development Roles
-- Internship Opportunities
-- Frontend Web Development Roles
-- React/Next.js Development Roles
-- Open Source Contributions
+## About
+
+Software Engineer specialising in Full-Stack Web Development with a strong command of the MERN stack, Next.js, and Django. I build scalable, performant web applications — from thoughtful frontend experiences to robust backend architectures — with a focus on clean code and measurable impact.
+
+- 🔭 Currently building production-grade applications with **Next.js** and **Django**
+- 🌱 Deepening expertise in **system design**, **PostgreSQL optimisation**, and **cloud infrastructure**
+- 💡 Interested in open-source collaboration and performance-driven engineering
+- 📫 Reach me at [wahabcreation2161@gmail.com](mailto:wahabcreation2161@gmail.com)
 
 ---
 
-### Connect With Me:
+## Tech Stack
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwind-css&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+### Infrastructure & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk-000000?style=flat-square&logo=clerk&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-1A1A1A?style=flat-square&logo=railway&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-323272?style=flat-square&logo=hostinger&logoColor=white)
+
+---
+
+## Featured Projects
+
+| Project | Description | Stack | Live |
+|--------|-------------|-------|------|
+| **Quran Academia** | Online Quran learning platform with scheduling & student management | React, Next.js, Django, PostgreSQL | [→ View](https://mwquranacademy.vercel.app/) |
+| **Capital Management System** | Business capital & investment tracking dashboard | React, Next.js, Django, PostgreSQL | [→ View](https://pms-cust.vercel.app) |
+| **Savemore** | E-commerce savings and deals platform | React, Next.js, Django, PostgreSQL | [→ View](https://savemore.cloud) |
+| **Zee Security** | Corporate security services website | React, Django, PostgreSQL | [→ View](https://zeesecurity.co.uk) |
+| **LTI** | Integrated Technology Institute landing & portal | React, Next.js | [→ View](https://thelti.site) |
+| **Portfolio** | Personal developer portfolio | React | [→ View](https://wahabcreations.vercel.app) |
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  <a href="mailto:wahabcreation2161@gmail.com"><img src="https://img.shields.io/badge/Email-%23D44638.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/abdulwahab2161/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/923115257482"><img src="https://img.shields.io/badge/WhatsApp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&theme=github_dark&count_private=true&hide=prs&border_radius=6&hide_border=true&bg_color=0d1117" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=github_dark&border_radius=6&hide_border=true&bg_color=0d1117" />
 </p>
 
-#### More:
-- [Check Out My Portfolio](https://wahabcreations.vercel.app/)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations&theme=github-dark-blue&hide_border=true&background=0d1117&border_radius=6" />
+</p>
+
+---
+
+## Open To
+
+- **Full-Stack Development** roles (MERN / Next.js / Django)
+- **Frontend Engineering** positions (React / TypeScript)
+- **Freelance & Contract** projects
+- **Open Source** contributions
+- **Internship** opportunities
 
 ---
 
 <p align="center">
-  <img src="gif5.svg" alt="Footer GIF" width="100"/>
+  <em>Let's build something great together.</em>
+  <br /><br />
+  <a href="mailto:wahabcreation2161@gmail.com">
+    <img src="https://img.shields.io/badge/Get%20In%20Touch-D44638?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
