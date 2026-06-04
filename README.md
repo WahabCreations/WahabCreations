@@ -80,6 +80,9 @@ Software Engineer specialising in Full-Stack Web Development with a strong comma
 | **Savemore** | E-commerce savings and deals platform | React, Next.js, Django, PostgreSQL | [→ View](https://savemore.cloud) |
 | **Zee Security** | Corporate security services website | React, Django, PostgreSQL | [→ View](https://zeesecurity.co.uk) |
 | **LTI** | Integrated Technology Institute landing & portal | React, Next.js | [→ View](https://thelti.site) |
+| **Raw Editor** | Online raw text & code editing tool | React, Next.js | [→ View](https://raw-editor.vercel.app) |
+| **Matchwise AI** | AI-powered matchmaking web application | React, Next.js | [→ View](https://matchwise-ai.com) |
+| **Eizkm** | Industrial spare parts & power solutions platform | React, Django, PostgreSQL | [→ View](https://eizkm.com) |
 | **Portfolio** | Personal developer portfolio | React | [→ View](https://wahabcreations.vercel.app) |
 
 ---
@@ -93,7 +96,11 @@ Software Engineer specialising in Full-Stack Web Development with a strong comma
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahabCreations&theme=github-dark-blue&hide_border=true&background=0d1117&border_radius=6" />
+  <img src="https://streak-stats.demolab.com/?user=WahabCreations&theme=github-dark-blue&hide_border=true&background=0d1117&border_radius=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" />
 </p>
 
 ---
