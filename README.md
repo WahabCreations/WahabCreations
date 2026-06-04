@@ -105,7 +105,7 @@ const wahab = {
     <tr>
       <td><b>🔒 Zee Security</b></td>
       <td>Corporate security services website</td>
-      <td><code>React</code> <code>Django</code> <code>PostgreSQL</code></td>
+      <td><code>React</code><> NextJS</code> <code>Django</code> <code>PostgreSQL</code></td>
       <td><a href="https://zeesecurity.co.uk">→ Visit</a></td>
     </tr>
     <tr>
@@ -127,12 +127,6 @@ const wahab = {
       <td><a href="https://matchwise-ai.com">→ Visit</a></td>
     </tr>
     <tr>
-      <td><b>⚙️ Eizkm</b></td>
-      <td>Industrial spare parts & power solutions e-commerce platform</td>
-      <td><code>React</code> <code>Django</code> <code>PostgreSQL</code></td>
-      <td><a href="https://eizkm.com">→ Visit</a></td>
-    </tr>
-    <tr>
       <td><b>🧑‍💻 Portfolio</b></td>
       <td>Personal developer portfolio showcasing work & skills</td>
       <td><code>React</code></td>
@@ -147,32 +141,12 @@ const wahab = {
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&theme=tokyonight&count_private=true&hide=prs&border_radius=10&hide_border=false&include_all_commits=true&rank_icon=github" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-  <img width="70%" src="https://streak-stats.demolab.com/?user=WahabCreations&theme=tokyonight&hide_border=false&border_radius=10&date_format=j%20M%5B%20Y%5D" />
-
-</div>
-
-<div align="center">
-
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&theme=tokyo-night&hide_border=false&border_radius=10&area=true&custom_title=Contribution%20Graph" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WahabCreations&theme=tokyonight&no-frame=false&no-bg=false&margin-w=6&margin-h=6&column=7" />
-</div>
-
----
 
 ## 💼 Open To
 
