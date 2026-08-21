@@ -84,6 +84,30 @@ const wahab = {
     </tr>
   </thead>
   <tbody>
+        <tr>
+      <td><b>🤖 Matchwise AI</b></td>
+      <td>AI-powered job matching platform connecting candidates with roles based on skills & fit</td>
+      <td><code>React</code> <code>Next.js</code> <code>AI</code></td>
+      <td><a href="https://www.matchwise-ai.com">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🛡️ CMMC2Ready</b></td>
+      <td>CMMC Level 2 compliance audit & readiness platform for US defense contractors</td>
+      <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://dev.cmmc2ready.com">→ Visit</a></td>
+    </tr>
+        <tr>
+      <td><b>✏️ Raw Editor</b></td>
+      <td>Clean online raw text & code editor for developers</td>
+      <td><code>React</code> <code>Next.js</code></td>
+      <td><a href="https://raw-editor.vercel.app">→ Visit</a></td>
+    </tr>
+        <tr>
+      <td><b>🧑‍💻 Portfolio</b></td>
+      <td>Personal developer portfolio showcasing work & skills</td>
+      <td><code>React</code></td>
+      <td><a href="https://wahabcreations.vercel.app">→ Visit</a></td>
+    </tr>
     <tr>
       <td><b>🕌 Quran Academia</b></td>
       <td>Online Quran learning platform with scheduling & student management</td>
@@ -113,30 +137,6 @@ const wahab = {
       <td>Integrated Technology Institute landing page & student portal</td>
       <td><code>React</code> <code>Next.js</code></td>
       <td><a href="https://thelti.site">→ Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>✏️ Raw Editor</b></td>
-      <td>Clean online raw text & code editor for developers</td>
-      <td><code>React</code> <code>Next.js</code></td>
-      <td><a href="https://raw-editor.vercel.app">→ Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>🤖 Matchwise AI</b></td>
-      <td>AI-powered job matching platform connecting candidates with roles based on skills & fit</td>
-      <td><code>React</code> <code>Next.js</code> <code>AI</code></td>
-      <td><a href="https://www.matchwise-ai.com">→ Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>🛡️ CMMC2Ready</b></td>
-      <td>CMMC Level 2 compliance audit & readiness platform for US defense contractors</td>
-      <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
-      <td><a href="https://www.dev.cmmc2ready.com">→ Visit</a></td>
-    </tr>
-    <tr>
-      <td><b>🧑‍💻 Portfolio</b></td>
-      <td>Personal developer portfolio showcasing work & skills</td>
-      <td><code>React</code></td>
-      <td><a href="https://wahabcreations.vercel.app">→ Visit</a></td>
     </tr>
   </tbody>
 </table>
