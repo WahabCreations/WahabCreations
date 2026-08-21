@@ -130,7 +130,7 @@ const wahab = {
       <td><b>🛡️ CMMC2Ready</b></td>
       <td>CMMC Level 2 compliance audit & readiness platform for US defense contractors</td>
       <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
-      <td><a href="https://www.cmmc2ready.com">→ Visit</a></td>
+      <td><a href="https://www.dev.cmmc2ready.com">→ Visit</a></td>
     </tr>
     <tr>
       <td><b>🧑‍💻 Portfolio</b></td>
