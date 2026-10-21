@@ -7,13 +7,13 @@
 # Abdul Wahab
 
 <p>
-  <a href="mailto:wahabcreation2161@gmail.com"><img src="https://img.shields.io/badge/Gmail-wahabcreation2161%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://www.linkedin.com/in/abdulwahab2161/"><img src="https://img.shields.io/badge/LinkedIn-abdulwahab2161-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://wa.me/923115257482"><img src="https://img.shields.io/badge/WhatsApp-%2B923115257482-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://wahabcreations.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-wahabcreations.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" /></a>
+  <a href="mailto:wahabcreations2161@gmail.com"><img src="https://img.shields.io/badge/Gmail-wahabcreations2161%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/abdulwahab2161/"><img src="https://img.shields.io/badge/LinkedIn-abdulwahab2161-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn" /></a>
+  <a href="https://wa.me/923115257482"><img src="https://img.shields.io/badge/WhatsApp-%2B923115257482-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=0d1117" alt="WhatsApp" /></a>
+  <a href="https://wahabcreations.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-wahabcreations.vercel.app-ffffff?style=for-the-badge&logo=vercel&logoColor=black&labelColor=0d1117" alt="Portfolio" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=WahabCreations&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=WahabCreations&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -25,18 +25,23 @@
 
 ```ts
 const wahab = {
-  role     : "Full Stack Engineer",
-  stack    : ["MERN", "Next.js", "Django"],
+  role     : "Full Stack Engineer & Web Developer",
+  stack    : ["React", "Next.js", "TypeScript", "Node.js", "Django REST"],
+  databases: ["PostgreSQL", "MongoDB", "MySQL"],
   focus    : "Scalable apps · Clean architecture · Real impact",
-  learning : ["System Design", "PostgreSQL optimisation", "Cloud Infra"],
-  openTo   : ["Full-Time", "Freelance", "Open Source", "Internship"],
-  contact  : "wahabcreation2161@gmail.com",
+  learning : ["System Design", "Cloud Infrastructure", "Performance Optimization"],
+  openTo   : ["Full-Time", "Freelance", "Contract", "Consulting"],
+  location : "Islamabad, Pakistan",
+  contact  : "wahabcreations2161@gmail.com",
 };
 ```
 
-- 🔭 Building production-grade apps with **Next.js + Django**
-- 🌱 Deep-diving into **system design** and **cloud infrastructure**
-- 💡 Passionate about performance-driven, maintainable engineering
+- 🔭 Building production-grade web applications with **Next.js + Django REST Framework**
+- 💼 Web Developer with industry track record at **Phebsoft LLC**, **Versori**, and **TMRc**
+- 🎓 BS Software Engineering from **Capital University of Science & Technology (CUST)** *(CGPA 3.29 / 4.0)*
+- 🏆 Top-70 finish in the **ICPC Programming Contest** (~350 participants) & NAVTTC Certified MERN Stack Developer
+- 🌱 Deep-diving into **system design**, **distributed architectures**, and **cloud infrastructure**
+- 💡 Passionate about performance-driven, maintainable engineering and user-first digital products
 - ⚡ Fun fact: I turn caffeine into scalable web apps
 
 <br clear="right"/>
@@ -61,9 +66,11 @@ const wahab = {
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -84,59 +91,95 @@ const wahab = {
     </tr>
   </thead>
   <tbody>
-        <tr>
+    <tr>
       <td><b>🤖 Matchwise AI</b></td>
-      <td>AI-powered job matching platform connecting candidates with roles based on skills & fit</td>
-      <td><code>React</code> <code>Next.js</code> <code>AI</code></td>
-      <td><a href="https://www.matchwise-ai.com">→ Visit</a></td>
+      <td>AI-powered career matching platform connecting candidates with roles based on O*NET benchmarks, skills analysis & dual evaluation workflows</td>
+      <td><code>React</code> <code>Next.js</code> <code>Node.js</code> <code>AI / NLP</code></td>
+      <td><a href="https://www.matchwise-ai.com" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
       <td><b>🛡️ CMMC2Ready</b></td>
-      <td>CMMC Level 2 compliance audit & readiness platform for US defense contractors</td>
+      <td>Cybersecurity compliance-readiness SaaS platform & automated SPRS assessment system for US defense contractors</td>
       <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
-      <td><a href="https://dev.cmmc2ready.com">→ Visit</a></td>
-    </tr>
-        <tr>
-      <td><b>✏️ Raw Editor</b></td>
-      <td>Clean online raw text & code editor for developers</td>
-      <td><code>React</code> <code>Next.js</code></td>
-      <td><a href="https://raw-editor.vercel.app">→ Visit</a></td>
-    </tr>
-        <tr>
-      <td><b>🧑‍💻 Portfolio</b></td>
-      <td>Personal developer portfolio showcasing work & skills</td>
-      <td><code>React</code></td>
-      <td><a href="https://wahabcreations.vercel.app">→ Visit</a></td>
+      <td><a href="https://cmmc2ready.com" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
-      <td><b>🕌 Quran Academia</b></td>
-      <td>Online Quran learning platform with scheduling & student management</td>
-      <td><code>Next.js</code> <code>Django</code> <code>PostgreSQL</code></td>
-      <td><a href="https://mwquranacademy.vercel.app/">→ Visit</a></td>
+      <td><b>🐾 JunniVet</b></td>
+      <td>All-in-one veterinary clinic management SaaS platform with client appointment scheduling, pet EMR, and clinical logs</td>
+      <td><code>Next.js</code> <code>TypeScript</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://junnivet.vercel.app" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
-      <td><b>💰 Capital Management System</b></td>
-      <td>Business capital & investment tracking dashboard</td>
-      <td><code>Next.js</code> <code>Django</code> <code>PostgreSQL</code></td>
-      <td><a href="https://pms-cust.vercel.app">→ Visit</a></td>
+      <td><b>🕌 MW Quran Academy</b></td>
+      <td>Global online Quran learning academy serving 50,000+ students across 50+ countries with course pathways, 24/7 video streaming & automated trial booking</td>
+      <td><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://mwquranacademy.vercel.app" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🎓 Capital Projects Management (PMS CUST)</b></td>
+      <td>Full-lifecycle academic project management and evaluation platform with role-based dashboards for Students, Supervisors, and Coordinators</td>
+      <td><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code> <code>Cloudinary</code></td>
+      <td><a href="https://pms-cust.vercel.app" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>⚙️ Moatizco</b></td>
+      <td>Commercial business and e-commerce portal for an international industrial spare parts distributor</td>
+      <td><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://moatizco.com" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🍊 Chakwal Citrus Crop</b></td>
+      <td>Agricultural business and export portal with pre-booking management and seasonal harvest catalog</td>
+      <td><code>React</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://chakwalcitruscrop.com" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🌳 SG Citrus Farm</b></td>
+      <td>Citrus farm business website supporting brand presentation, commercial inquiries, and customer discovery</td>
+      <td><code>HTML5</code> <code>CSS3</code> <code>JavaScript</code></td>
+      <td><a href="https://sgcitrusfarm.com" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
       <td><b>🛍️ Savemore</b></td>
-      <td>E-commerce savings and deals platform</td>
+      <td>E-commerce savings, vouchers, and consumer deals platform</td>
       <td><code>Next.js</code> <code>Django</code> <code>PostgreSQL</code></td>
-      <td><a href="https://savemore.cloud">→ Visit</a></td>
+      <td><a href="https://savemore.cloud" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
       <td><b>🔒 Zee Security</b></td>
-      <td>Corporate security services website</td>
-      <td><code>React</code> <code>Next.js</code> <code>Django</code> <code>PostgreSQL</code></td>
-      <td><a href="https://zeesecurity.co.uk">→ Visit</a></td>
+      <td>Corporate security services and operational risk management website for UK clientele</td>
+      <td><code>React</code> <code>Next.js</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://zeesecurity.co.uk" target="_blank">→ Visit</a></td>
     </tr>
     <tr>
-      <td><b>🎓 LTI Portal</b></td>
-      <td>Integrated Technology Institute landing page & student portal</td>
+      <td><b>✏️ Raw Editor</b></td>
+      <td>Clean online raw text & code editor utility for developers</td>
       <td><code>React</code> <code>Next.js</code></td>
-      <td><a href="https://thelti.site">→ Visit</a></td>
+      <td><a href="https://raw-editor.vercel.app" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🛍️ The One Shop</b></td>
+      <td>Modern responsive e-commerce storefront with shopping workflows</td>
+      <td><code>Next.js</code> <code>React</code> <code>Tailwind CSS</code></td>
+      <td><a href="https://theoneshop.vercel.app" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>📖 Sirat-ul-Mustaqeem</b></td>
+      <td>Clean, accessible Islamic educational portal with structured learning content</td>
+      <td><code>React</code> <code>Next.js</code></td>
+      <td><a href="https://seratulmustaqeem.vercel.app" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🏛️ LTI Portal</b></td>
+      <td>Integrated Technology Institute landing page & student educational portal</td>
+      <td><code>React</code> <code>Next.js</code></td>
+      <td><a href="https://thelti.site" target="_blank">→ Visit</a></td>
+    </tr>
+    <tr>
+      <td><b>🧑‍💻 Developer Portfolio</b></td>
+      <td>Personal developer portfolio showcasing full-stack work, interactive terminal emulator, and live projects</td>
+      <td><code>HTML5</code> <code>Vanilla CSS</code> <code>JavaScript</code></td>
+      <td><a href="https://wahabcreations.vercel.app" target="_blank">→ Visit</a></td>
     </tr>
   </tbody>
 </table>
@@ -147,20 +190,26 @@ const wahab = {
 
 <div align="center">
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&theme=tokyo-night&hide_border=false&border_radius=10&area=true&custom_title=Contribution%20Graph" />
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&theme=tokyo-night&hide_border=false&border_radius=10&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
+
+  <br/><br/>
+
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&theme=tokyo-night&hide_border=false&border_radius=10&count_private=true" width="48.5%" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=tokyo-night&hide_border=false&border_radius=10" width="48.5%" alt="Top Languages" />
+  </p>
 
 </div>
 
 ---
 
-
 ## 💼 Open To
 
 <div align="center">
 
-| 🧑‍💻 Full-Stack Roles | 🎨 Frontend Engineering | 🤝 Freelance & Contract | 🌍 Open Source | 📚 Internship |
+| 🧑‍💻 Full-Stack Roles | 🎨 Frontend Engineering | 🤝 Freelance & Contract | 🌍 Open Source | 📚 Consulting |
 |:---:|:---:|:---:|:---:|:---:|
-| MERN / Next.js / Django | React / TypeScript | Projects of any scale | Contributions | Learning & Growth |
+| Next.js / Django / MERN | React / TypeScript / Tailwind | Projects of any scale | Contributions & Architecture | System Design & Optimization |
 
 </div>
 
@@ -171,19 +220,19 @@ const wahab = {
 ### 🤝 Let's Build Something Great Together
 
 <p>
-  <a href="mailto:wahabcreation2161@gmail.com">
-    <img src="https://img.shields.io/badge/Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:wahabcreations2161@gmail.com">
+    <img src="https://img.shields.io/badge/Send%20Me%20An%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://wa.me/923115257482">
-    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img src="https://img.shields.io/badge/Chat%20on%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
   &nbsp;
   <a href="https://wahabcreations.vercel.app/">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer" width="100%" alt="Footer" />
 
 </div>
