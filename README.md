@@ -190,16 +190,11 @@ const wahab = {
 
 <div align="center">
 
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&theme=tokyo-night&hide_border=false&border_radius=10&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-  <br/><br/>
-
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&theme=tokyo-night&hide_border=false&border_radius=10&count_private=true" width="48.5%" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&theme=tokyo-night&hide_border=false&border_radius=10" width="48.5%" alt="Top Languages" />
-  </p>
-
-</div>
+  <!-- Contribution activity graph -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub contribution activity graph for WahabCreations" width="100%" />
+  </picture>
 
 ---
 
