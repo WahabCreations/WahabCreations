@@ -191,10 +191,6 @@ const wahab = {
 <div align="center">
 
   <!-- Contribution activity graph -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub contribution activity graph for WahabCreations" width="100%" />
-  </picture>
 
   
 
@@ -210,10 +206,6 @@ const wahab = {
       </td>
     </tr>
   </table>
-
-  <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=WahabCreations&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub achievements for WahabCreations" width="100%" />
-  </p>
 
   <sub>Analytics are provided by third-party services and may update with a delay. Language percentages reflect detected code in public repositories.</sub>
 </div>
