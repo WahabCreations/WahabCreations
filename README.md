@@ -196,6 +196,28 @@ const wahab = {
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=WahabCreations&bg_color=ffffff&color=0969da&line=0969da&point=24292f&area=true&hide_border=true&custom_title=GitHub%20Contribution%20Graph" alt="GitHub contribution activity graph for WahabCreations" width="100%" />
   </picture>
 
+  
+
+
+  <!-- Keep the stats cards in a table for consistent GitHub README alignment -->
+  <table>
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=WahabCreations&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" alt="GitHub statistics for WahabCreations" width="100%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahabCreations&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most-used programming languages for WahabCreations" width="100%" />
+      </td>
+    </tr>
+  </table>
+
+  <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=WahabCreations&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub achievements for WahabCreations" width="100%" />
+  </p>
+
+  <sub>Analytics are provided by third-party services and may update with a delay. Language percentages reflect detected code in public repositories.</sub>
+</div>
+
 ---
 
 ## 💼 Open To
